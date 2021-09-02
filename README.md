@@ -20,3 +20,5 @@ Not just making the app connecting the dots but we tried to make it upto most re
 
 ## What's next for Foody 
 Probably we would like to make more good UI features actions,animations implement dark modes and make this code shippable to user needs.
+## APK FILE 
+The apk file can be found in codebase by name app-debug.apk
