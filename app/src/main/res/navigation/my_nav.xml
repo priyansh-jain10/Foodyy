@@ -26,11 +26,6 @@
         android:name="com.example.foody.ui.fragments.favorites.FavoriteRecipesFragment"
         android:label="Favorites"
         tools:layout="@layout/fragment_favorite_recipes" />
-    <fragment
-        android:id="@+id/foodJokeFragment"
-        android:name="com.example.foody.ui.fragments.foodjoke.FoodJokeFragment"
-        android:label="Food Joke"
-        tools:layout="@layout/fragment_food_joke" />
     <dialog
         android:id="@+id/recepiesBottomSheet"
         android:name="com.example.foody.ui.ui.bottomsheet.RecepiesBottomSheet"

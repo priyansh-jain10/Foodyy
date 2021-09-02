@@ -7,6 +7,7 @@ import android.net.NetworkCapabilities
 import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.*
 import com.example.foody.data.Repository
+import com.example.foody.data.database.FavouritesEntity
 import com.example.foody.data.database.RecipesEntity
 import com.example.foody.models.FoodRecipe
 import com.example.foody.util.NetworkResult
@@ -24,11 +25,22 @@ class MainViewModel @ViewModelInject constructor(
     /** ROOM DATABASE */
 
     val readRecipes: LiveData<List<RecipesEntity>> = repository.local.readDatabase().asLiveData()
-
+    val readFavouriteRecepies: LiveData<List<FavouritesEntity>> =repository.local.readFavoriteRecipes().asLiveData()
     private fun insertRecipes(recipesEntity: RecipesEntity) =
         viewModelScope.launch(Dispatchers.IO) {
             repository.local.insertRecipes(recipesEntity)
         }
+
+    fun insertFavouriteRecepies(favouritesEntity:FavouritesEntity)=viewModelScope.launch(Dispatchers.IO) {
+        repository.local.insertFavouriteRecipes(favouritesEntity)
+    }
+    fun deleteFavouriteRecipes(favouritesEntity:FavouritesEntity)=viewModelScope.launch(Dispatchers.IO) {
+        repository.local.deleteFavoriteRecipe(favouritesEntity)
+    }
+
+    fun deleteAllFavRecepies()=viewModelScope.launch(Dispatchers.IO) {
+        repository.local.deleteAllFavoriteRecipes()
+    }
 
     /** RETROFIT */
     var recipesResponse: MutableLiveData<NetworkResult<FoodRecipe>> = MutableLiveData()
