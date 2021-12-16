@@ -25,4 +25,4 @@ Probably we would like to make more good UI features actions,animations implemen
 The apk file can be found in codebase by name app-debug.apk
 
 ## LINK TO VIDEO DESCRIPTION OF THE APP
-https://studio.youtube.com/video/Cv6dg9w3cPY/edit
+https://www.youtube.com/watch?v=Cv6dg9w3cPY
