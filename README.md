@@ -1,3 +1,4 @@
+
 ## Inspiration
 We often have materials in our kitchen store but are limited with ideas of dishes to make. Why would one even compromise when you can get the most popular dishes. 
 
@@ -22,3 +23,6 @@ Not just making the app connecting the dots but we tried to make it upto most re
 Probably we would like to make more good UI features actions,animations implement dark modes and make this code shippable to user needs.
 ## APK FILE 
 The apk file can be found in codebase by name app-debug.apk
+
+## LINK TO VIDEO DESCRIPTION OF THE APP
+https://studio.youtube.com/video/Cv6dg9w3cPY/edit
