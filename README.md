@@ -23,8 +23,8 @@ Not just making the app connecting the dots but we tried to make it upto most re
 Probably we would like to make more good UI features actions,animations implement dark modes and make this code shippable to user needs.
 ## APK FILE 
 The apk file can be found in codebase by name app-debug.apk!
+## Samples of App
 [WhatsApp Image 2021-09-02 at 11 24 49 PM](https://user-images.githubusercontent.com/54763105/180657797-bdb5e174-c5f8-4aa4-a0ba-308178975825.jpeg)
-Samples of App
 ![WhatsApp Image 2021-09-02 at 11 25 13 PM](https://user-images.githubusercontent.com/54763105/180657807-d8176da4-c4b5-41d3-9bca-38d1ce8f1ca9.jpeg)
 ![WhatsApp Image 2021-09-02 at 11 25 31 PM](https://user-images.githubusercontent.com/54763105/180657814-c3d53313-e18b-4344-b71a-96ef70599937.jpeg)
 ![WhatsApp Image 2021-09-02 at 11 25 41 PM](https://user-images.githubusercontent.com/54763105/180657823-6d3c41a7-21cf-48f5-98b2-7fa69109ac2d.jpeg)
