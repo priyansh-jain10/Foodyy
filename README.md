@@ -24,15 +24,11 @@ Probably we would like to make more good UI features actions,animations implemen
 ## APK FILE 
 The apk file can be found in codebase by name app-debug.apk!
 ## Samples of App
-[WhatsApp Image 2021-09-02 at 11 24 49 PM](https://user-images.githubusercontent.com/54763105/180657797-bdb5e174-c5f8-4aa4-a0ba-308178975825.jpeg)
 ![WhatsApp Image 2021-09-02 at 11 25 13 PM](https://user-images.githubusercontent.com/54763105/180657807-d8176da4-c4b5-41d3-9bca-38d1ce8f1ca9.jpeg)
 ![WhatsApp Image 2021-09-02 at 11 25 31 PM](https://user-images.githubusercontent.com/54763105/180657814-c3d53313-e18b-4344-b71a-96ef70599937.jpeg)
 ![WhatsApp Image 2021-09-02 at 11 25 41 PM](https://user-images.githubusercontent.com/54763105/180657823-6d3c41a7-21cf-48f5-98b2-7fa69109ac2d.jpeg)
 ![WhatsApp Image 2021-09-02 at 11 26 45 PM](https://user-images.githubusercontent.com/54763105/180657825-6ea8777e-51ca-47a6-a53f-c793d146b126.jpeg)
-
-
-
-
+![WhatsApp Image 2021-09-02 at 11 24 49 PM](https://user-images.githubusercontent.com/54763105/180657954-9aeb6cff-3559-4c29-9891-e554b4dab3c8.jpeg)
 
 ## LINK TO VIDEO DESCRIPTION OF THE APP
 https://www.youtube.com/watch?v=Cv6dg9w3cPY
